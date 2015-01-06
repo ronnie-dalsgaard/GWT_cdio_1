@@ -1,0 +1,3 @@
+# Module cdio_1_test
+# RPC service class, partial path of RPC policy file
+c02324.client.GreetingService, A437C1C97BD5DBC213AC8B4360E1EBEF.gwt.rpc

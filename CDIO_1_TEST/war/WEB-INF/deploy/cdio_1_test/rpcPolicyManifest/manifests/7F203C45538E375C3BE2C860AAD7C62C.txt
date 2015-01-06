@@ -1,0 +1,2 @@
+serviceClass: c02324.client.GreetingService
+path: A437C1C97BD5DBC213AC8B4360E1EBEF.gwt.rpc
